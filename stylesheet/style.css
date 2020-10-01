@@ -1,0 +1,250 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.content__form__inputradio
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.content__form__inputradio--label
+{
+    padding: 0px 10px 0px 3px;
+}
+.content__form__inputdropdown
+{
+    width: 70px;
+    height: 30px;
+    margin-left: -2px       ;
+}
+.content__main--smalltext a
+{
+    text-decoration: none;
+    color: #385898;
+}
+.footer__copyright
+{
+    color: #737373;
+    font-size: 11px;
+    margin: 20px;
+}
+.content__main__title
+{
+    color: #4b4f56;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 28px;
+    
+}
+.content__form__inputtext
+{
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 05px;
+    border: none;
+    border: 1px solid #BDC7D8;
+    padding: 8px 10px;
+    font-size: 18px;
+    color: #bdc7d8;
+}
+.content__form__inputtext--width
+{
+    width: 400px;
+    
+}
+.content
+{
+    width: 1348px;
+    height: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(235,237,240);
+}
+.content__main
+{
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 49%; 
+    left: 50%; 
+    margin-top: -200px; 
+    margin-left: -200px;
+}
+.btn__signup
+{
+    background-color: #69a74e;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 07px 20px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+    border: 1px solid;
+    border-radius: 05px;
+    box-shadow: inset 0px 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    background: linear-gradient(#67ae55, #578843);
+}
+.content__main p
+{
+    margin-top: 10px;
+}
+.content__main h1
+{
+    font-size: 40px;
+    color: #1d2129;
+}
+.content__main--smalltext
+{
+    font-size: 11px;
+    width: 300px;
+    color: #9B949C;
+}
+.content__main--shade
+{
+    color: #9B949C;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer
+{
+    font-size: 12;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+    margin-left: 170px;
+    margin-bottom: 20px;
+}
+.btn__login
+{
+    background-color: #4267B2;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 02px 06px;
+    border: none;
+    border-radius: 03px;
+    border-width: 100px;
+    margin-left: 05px;
+    border: 1px solid #29487d;
+    font-weight: bold;
+    margin-top: 17px;
+    line-height: 18px;
+    text-align: center;
+}
+.footer__languagelist--modifier
+{
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+    height: 28px;
+    padding-bottom: 8px 0px 0px;
+    line-height: 1.34px;
+    font-size: 12px;
+
+}
+.footer__tagslist--modifier
+{
+    width: 1000px;
+    height: 57px;
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    align-items: center;
+
+}
+.btn__languagelist
+{
+    height: 20px;
+    width: 15px;
+    margin-left: 10px;
+    line-height: 18px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 2px;
+    box-sizing: content-box;
+    justify-content: center;
+    padding: 0px 8px 0px 8px;
+    position: relative;
+    background-color: #f5f6f7;
+    border-color: #ccd0d5;
+    color: #4b4f56;
+}
+.footer__languagelist
+{
+    margin-left: 20px;
+}
+.footer__languagelist--item
+{
+    padding-left: 10px;
+}
+.footer__tagslist--item
+{
+    padding-left: 20px;
+    
+}
+.footer a
+{
+    text-decoration: none;
+    color: #385898;
+    
+}
+.footer__separater
+{
+    border-bottom: 1px solid #dddfe2;
+    margin-bottom: 8px;
+    margin-left: 20px;
+    height: 8px;
+    font-size: 1px;
+    width: 80%;
+}
+.footer__languagelist--selected
+{
+    color: #737373;
+    padding-left: 0px;
+}
+.header__login
+{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    margin-top: 13px;
+}
+
+.img_control
+{
+    float: left;
+}
+.header_form
+{
+    text-align: center;
+}
+.img_control--modifier
+{
+    width:175px;
+    height:35px;
+    margin-top: 30px;
+}
+
+.header
+{
+    background-color: #3E5B99;
+    width: 100%;
+    height: 85px;
+}
+
+.header__control-align
+{
+    width: 980px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
