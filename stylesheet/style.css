@@ -50,6 +50,7 @@
     padding: 8px 10px;
     font-size: 18px;
     color: #bdc7d8;
+    height: 100%;
 }
 .content__form__inputtext--width
 {
@@ -58,7 +59,7 @@
 }
 .content
 {
-    width: 1348px;
+    width: 100%;
     height: 570px;
     margin-left: auto;
     margin-right: auto;
@@ -67,11 +68,9 @@
 .content__main
 {
     font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
-    position: absolute;
-    top: 55%; 
-    left: 50%; 
-    margin-top: -200px; 
-    margin-left: -200px;
+    position: relative;
+    margin-left: 33%;
+    padding-top: 2%;
 }
 .btn__signup
 {
@@ -150,7 +149,7 @@
 }
 .footer__tagslist--modifier
 {
-    width: 1000px;
+    width: 100%;
     height: 57px;
     font-size: 12px;
     display: flex;
